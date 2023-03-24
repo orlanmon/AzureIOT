@@ -1,0 +1,53 @@
+﻿IoT Hub Name: monacosiothub
+
+Log Into Azure
+
+Proceed to Cloud Shell
+
+Type in az
+
+az iot hub device-identity create --hub-name monacosiothub --device-id raspberry_voltage_monitor_2
+
+
+{
+  "authentication": {
+    "symmetricKey": {
+      "primaryKey": "UUlDMipesoU5GCGqEVbwtuunf2aZQqnY3KApNqCaU8I=",
+      "secondaryKey": "TDDt3j3MSRi7xtRv8vropBfqkwXWqnecfETrGPImNLE="
+    },
+    "type": "sas",
+    "x509Thumbprint": {
+      "primaryThumbprint": null,
+      "secondaryThumbprint": null
+    }
+  },
+  "capabilities": {
+    "iotEdge": false
+  },
+  "cloudToDeviceMessageCount": 0,
+  "connectionState": "Disconnected",
+  "connectionStateUpdatedTime": "0001-01-01T00:00:00",
+  "deviceId": "raspberry_voltage_monitor_2",
+  "etag": "ODE2MTgzNTI3",
+  "generationId": "636705784512108428",
+  "lastActivityTime": "0001-01-01T00:00:00",
+  "status": "enabled",
+  "statusReason": null,
+  "statusUpdatedTime": "0001-01-01T00:00:00"
+}
+
+
+
+az iot hub device-identity show-connection-string --hub-name monacosiothub --device-id raspberry_voltage_monitor_2 --output table
+
+!!IOT Device Connection String!!
+
+Device 1
+
+"HostName=monacosiothub.azure-devices.net;DeviceId=raspberry_voltage_monitor;SharedAccessKey=cChjdg6BtNavNWN25L6l+H2VQC3PN1DJxUmdFooGp8s="
+
+Device 2
+
+"HostName=monacosiothub.azure-devices.net;DeviceId=raspberry_voltage_monitor_2;SharedAccessKey=UUlDMipesoU5GCGqEVbwtuunf2aZQqnY3KApNqCaU8I="
+
+

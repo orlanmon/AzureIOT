@@ -1,0 +1,164 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Software Development .NET\\4.5\\monacos.us\\Projects\\monacos.us\\AzureCloudIOT\\Application\\AzureCloudIOT\\AzureCloudIOT.csproj": {}
+  },
+  "projects": {
+    "D:\\Software Development .NET\\4.5\\monacos.us\\Projects\\monacos.us\\AzureCloudIOT\\Application\\AzureCloudIOT\\AzureCloudIOT.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Software Development .NET\\4.5\\monacos.us\\Projects\\monacos.us\\AzureCloudIOT\\Application\\AzureCloudIOT\\AzureCloudIOT.csproj",
+        "projectName": "AzureCloudIOT",
+        "projectPath": "D:\\Software Development .NET\\4.5\\monacos.us\\Projects\\monacos.us\\AzureCloudIOT\\Application\\AzureCloudIOT\\AzureCloudIOT.csproj",
+        "packagesPath": "C:\\Users\\monac\\.nuget\\packages\\",
+        "outputPath": "D:\\Software Development .NET\\4.5\\monacos.us\\Projects\\monacos.us\\AzureCloudIOT\\Application\\AzureCloudIOT\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\monac\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "uap10.0.19041"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "uap10.0.19041": {
+            "projectReferences": {
+              "D:\\Software Development .NET\\4.5\\monacos.us\\Projects\\monacos.us\\AzureCloudIOT\\Assemblies\\ADS1015DeviceLib\\ADS1015DeviceLib.csproj": {
+                "projectPath": "D:\\Software Development .NET\\4.5\\monacos.us\\Projects\\monacos.us\\AzureCloudIOT\\Assemblies\\ADS1015DeviceLib\\ADS1015DeviceLib.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "uap10.0.19041": {
+          "dependencies": {
+            "Microsoft.Azure.Devices": {
+              "target": "Package",
+              "version": "[1.17.0, )"
+            },
+            "Microsoft.Azure.Devices.Client": {
+              "target": "Package",
+              "version": "[1.5.0, )"
+            },
+            "Microsoft.NETCore.UniversalWindowsPlatform": {
+              "target": "Package",
+              "version": "[6.1.7, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[11.0.2, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      },
+      "runtimes": {
+        "win10-arm": {
+          "#import": []
+        },
+        "win10-arm-aot": {
+          "#import": []
+        },
+        "win10-x64": {
+          "#import": []
+        },
+        "win10-x64-aot": {
+          "#import": []
+        },
+        "win10-x86": {
+          "#import": []
+        },
+        "win10-x86-aot": {
+          "#import": []
+        }
+      }
+    },
+    "D:\\Software Development .NET\\4.5\\monacos.us\\Projects\\monacos.us\\AzureCloudIOT\\Assemblies\\ADS1015DeviceLib\\ADS1015DeviceLib.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Software Development .NET\\4.5\\monacos.us\\Projects\\monacos.us\\AzureCloudIOT\\Assemblies\\ADS1015DeviceLib\\ADS1015DeviceLib.csproj",
+        "projectName": "ADS1015DeviceLib",
+        "projectPath": "D:\\Software Development .NET\\4.5\\monacos.us\\Projects\\monacos.us\\AzureCloudIOT\\Assemblies\\ADS1015DeviceLib\\ADS1015DeviceLib.csproj",
+        "packagesPath": "C:\\Users\\monac\\.nuget\\packages\\",
+        "outputPath": "D:\\Software Development .NET\\4.5\\monacos.us\\Projects\\monacos.us\\AzureCloudIOT\\Assemblies\\ADS1015DeviceLib\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\monac\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "uap10.0.19041"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "uap10.0.19041": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "uap10.0.19041": {
+          "dependencies": {
+            "Microsoft.NETCore.UniversalWindowsPlatform": {
+              "target": "Package",
+              "version": "[5.2.2, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      },
+      "runtimes": {
+        "win10-arm": {
+          "#import": []
+        },
+        "win10-arm-aot": {
+          "#import": []
+        },
+        "win10-x64": {
+          "#import": []
+        },
+        "win10-x64-aot": {
+          "#import": []
+        },
+        "win10-x86": {
+          "#import": []
+        },
+        "win10-x86-aot": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

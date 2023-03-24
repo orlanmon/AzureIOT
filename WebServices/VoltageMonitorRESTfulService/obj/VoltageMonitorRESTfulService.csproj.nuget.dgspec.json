@@ -1,0 +1,169 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Software Development .NET\\4.5\\monacos.us\\Projects\\monacos.us\\AzureCloudIOT\\WebServices\\VoltageMonitorRESTfulService\\VoltageMonitorRESTfulService.csproj": {}
+  },
+  "projects": {
+    "D:\\Software Development .NET\\4.5\\monacos.us\\Projects\\monacos.us\\AzureCloudIOT\\Assemblies\\VoltageMonitor.dtos\\VoltageMonitor.dtos.csproj": {
+      "restore": {
+        "projectUniqueName": "D:\\Software Development .NET\\4.5\\monacos.us\\Projects\\monacos.us\\AzureCloudIOT\\Assemblies\\VoltageMonitor.dtos\\VoltageMonitor.dtos.csproj",
+        "projectName": "VoltageMonitor.dtos",
+        "projectPath": "D:\\Software Development .NET\\4.5\\monacos.us\\Projects\\monacos.us\\AzureCloudIOT\\Assemblies\\VoltageMonitor.dtos\\VoltageMonitor.dtos.csproj",
+        "frameworks": {
+          "net461": {
+            "projectReferences": {
+              "D:\\Software Development .NET\\4.5\\monacos.us\\Projects\\monacos.us\\AzureCloudIOT\\Assemblies\\VoltageMonitor\\VoltageMonitor.model.csproj": {
+                "projectPath": "D:\\Software Development .NET\\4.5\\monacos.us\\Projects\\monacos.us\\AzureCloudIOT\\Assemblies\\VoltageMonitor\\VoltageMonitor.model.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net461": {}
+      }
+    },
+    "D:\\Software Development .NET\\4.5\\monacos.us\\Projects\\monacos.us\\AzureCloudIOT\\Assemblies\\VoltageMonitor\\VoltageMonitor.model.csproj": {
+      "restore": {
+        "projectUniqueName": "D:\\Software Development .NET\\4.5\\monacos.us\\Projects\\monacos.us\\AzureCloudIOT\\Assemblies\\VoltageMonitor\\VoltageMonitor.model.csproj",
+        "projectName": "VoltageMonitor.model",
+        "projectPath": "D:\\Software Development .NET\\4.5\\monacos.us\\Projects\\monacos.us\\AzureCloudIOT\\Assemblies\\VoltageMonitor\\VoltageMonitor.model.csproj",
+        "frameworks": {
+          "net461": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net461": {}
+      }
+    },
+    "D:\\Software Development .NET\\4.5\\monacos.us\\Projects\\monacos.us\\AzureCloudIOT\\WebServices\\VoltageMonitorRESTfulService\\VoltageMonitorRESTfulService.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Software Development .NET\\4.5\\monacos.us\\Projects\\monacos.us\\AzureCloudIOT\\WebServices\\VoltageMonitorRESTfulService\\VoltageMonitorRESTfulService.csproj",
+        "projectName": "VoltageMonitorRESTfulService",
+        "projectPath": "D:\\Software Development .NET\\4.5\\monacos.us\\Projects\\monacos.us\\AzureCloudIOT\\WebServices\\VoltageMonitorRESTfulService\\VoltageMonitorRESTfulService.csproj",
+        "packagesPath": "C:\\Users\\monac\\.nuget\\packages\\",
+        "outputPath": "D:\\Software Development .NET\\4.5\\monacos.us\\Projects\\monacos.us\\AzureCloudIOT\\WebServices\\VoltageMonitorRESTfulService\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\monac\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net461"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net461": {
+            "targetAlias": "net461",
+            "projectReferences": {
+              "D:\\Software Development .NET\\4.5\\monacos.us\\Projects\\monacos.us\\AzureCloudIOT\\Assemblies\\VoltageMonitor.dtos\\VoltageMonitor.dtos.csproj": {
+                "projectPath": "D:\\Software Development .NET\\4.5\\monacos.us\\Projects\\monacos.us\\AzureCloudIOT\\Assemblies\\VoltageMonitor.dtos\\VoltageMonitor.dtos.csproj"
+              },
+              "D:\\Software Development .NET\\4.5\\monacos.us\\Projects\\monacos.us\\AzureCloudIOT\\Assemblies\\VoltageMonitor\\VoltageMonitor.model.csproj": {
+                "projectPath": "D:\\Software Development .NET\\4.5\\monacos.us\\Projects\\monacos.us\\AzureCloudIOT\\Assemblies\\VoltageMonitor\\VoltageMonitor.model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net461": {
+          "targetAlias": "net461",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[7.0.1, )"
+            },
+            "EntityFramework": {
+              "target": "Package",
+              "version": "[6.2.0, )"
+            },
+            "Microsoft.ApplicationInsights.AspNetCore": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            },
+            "Microsoft.AspNetCore": {
+              "target": "Package",
+              "version": "[1.1.1, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[1.1.0, )"
+            },
+            "Microsoft.AspNetCore.Mvc": {
+              "target": "Package",
+              "version": "[1.1.0, )"
+            },
+            "Microsoft.AspNetCore.StaticFiles": {
+              "target": "Package",
+              "version": "[1.1.1, )"
+            },
+            "Microsoft.Azure.Devices": {
+              "target": "Package",
+              "version": "[1.16.1, )"
+            },
+            "Microsoft.Azure.Devices.Client": {
+              "target": "Package",
+              "version": "[1.18.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "target": "Package",
+              "version": "[1.1.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[1.1.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer.Design": {
+              "target": "Package",
+              "version": "[1.1.1, )"
+            },
+            "Microsoft.Extensions.Logging.AzureAppServices": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            },
+            "Microsoft.Extensions.Logging.Debug": {
+              "target": "Package",
+              "version": "[1.1.1, )"
+            },
+            "Microsoft.VisualStudio.Web.BrowserLink": {
+              "target": "Package",
+              "version": "[1.1.0, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[1.1.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win7-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

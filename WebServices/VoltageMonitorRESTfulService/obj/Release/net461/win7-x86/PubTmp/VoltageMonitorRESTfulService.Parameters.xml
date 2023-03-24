@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="VoltageMonitorService__developmentenv" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^D:\\Software\ Development\ \.NET\\4\.5\\monacos\.us\\Projects\\monacos\.us\\AzureCloudIOT\\WebServices\\VoltageMonitorRESTfulService\\obj\\Release\\net461\\win7-x86\\PubTmp\\Out\\$" />
+  </parameter>
+</parameters>

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="EntitiesStoreContainer" CdmEntityContainer="monacosenterprisedbEntities1">
+    <EntitySetMapping Name="Device_Telemetry">
+      <EntityTypeMapping TypeName="Entities.Device_Telemetry">
+        <MappingFragment StoreEntitySet="Device_Telemetry">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Sample_Time" ColumnName="Sample_Time" />
+          <ScalarProperty Name="Voltage" ColumnName="Voltage" />
+          <ScalarProperty Name="Device_ID" ColumnName="Device_ID" />
+          <ScalarProperty Name="Device_Channel" ColumnName="Device_Channel" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

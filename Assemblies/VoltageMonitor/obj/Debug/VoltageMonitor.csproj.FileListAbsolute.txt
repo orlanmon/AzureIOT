@@ -1,0 +1,10 @@
+D:\Software Development .NET\4.5\monacos.us\Projects\monacos.us\AzureCloudIOT\Assemblies\VoltageMonitor\bin\Debug\VoltageMonitor.dll.config
+D:\Software Development .NET\4.5\monacos.us\Projects\monacos.us\AzureCloudIOT\Assemblies\VoltageMonitor\bin\Debug\VoltageMonitor.dll
+D:\Software Development .NET\4.5\monacos.us\Projects\monacos.us\AzureCloudIOT\Assemblies\VoltageMonitor\bin\Debug\VoltageMonitor.pdb
+D:\Software Development .NET\4.5\monacos.us\Projects\monacos.us\AzureCloudIOT\Assemblies\VoltageMonitor\bin\Debug\EntityFramework.dll
+D:\Software Development .NET\4.5\monacos.us\Projects\monacos.us\AzureCloudIOT\Assemblies\VoltageMonitor\bin\Debug\EntityFramework.SqlServer.dll
+D:\Software Development .NET\4.5\monacos.us\Projects\monacos.us\AzureCloudIOT\Assemblies\VoltageMonitor\bin\Debug\EntityFramework.xml
+D:\Software Development .NET\4.5\monacos.us\Projects\monacos.us\AzureCloudIOT\Assemblies\VoltageMonitor\bin\Debug\EntityFramework.SqlServer.xml
+D:\Software Development .NET\4.5\monacos.us\Projects\monacos.us\AzureCloudIOT\Assemblies\VoltageMonitor\obj\Debug\VoltageMonitor.csprojResolveAssemblyReference.cache
+D:\Software Development .NET\4.5\monacos.us\Projects\monacos.us\AzureCloudIOT\Assemblies\VoltageMonitor\obj\Debug\VoltageMonitor.dll
+D:\Software Development .NET\4.5\monacos.us\Projects\monacos.us\AzureCloudIOT\Assemblies\VoltageMonitor\obj\Debug\VoltageMonitor.pdb

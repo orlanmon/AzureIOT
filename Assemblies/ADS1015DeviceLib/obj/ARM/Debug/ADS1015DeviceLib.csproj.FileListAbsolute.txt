@@ -1,0 +1,16 @@
+D:\Software Development .NET\4.5\monacos.us\Projects\monacos.us\AzureCloudIOT\Assemblies\ADS1015DeviceLib\bin\ARM\Debug\ADS1015DeviceLib.dll
+D:\Software Development .NET\4.5\monacos.us\Projects\monacos.us\AzureCloudIOT\Assemblies\ADS1015DeviceLib\bin\ARM\Debug\ADS1015DeviceLib.pdb
+D:\Software Development .NET\4.5\monacos.us\Projects\monacos.us\AzureCloudIOT\Assemblies\ADS1015DeviceLib\bin\ARM\Debug\ADS1015DeviceLib.pri
+D:\Software Development .NET\4.5\monacos.us\Projects\monacos.us\AzureCloudIOT\Assemblies\ADS1015DeviceLib\obj\ARM\Debug\ADS1015DeviceLib.dll
+D:\Software Development .NET\4.5\monacos.us\Projects\monacos.us\AzureCloudIOT\Assemblies\ADS1015DeviceLib\obj\ARM\Debug\ADS1015DeviceLib.pdb
+D:\Software Development .NET\4.5\monacos.us\Projects\monacos.us\AzureCloudIOT\Assemblies\ADS1015DeviceLib\obj\ARM\Debug\priconfig.xml
+D:\Software Development .NET\4.5\monacos.us\Projects\monacos.us\AzureCloudIOT\Assemblies\ADS1015DeviceLib\obj\ARM\Debug\priconfig.xml.intermediate
+D:\Software Development .NET\4.5\monacos.us\Projects\monacos.us\AzureCloudIOT\Assemblies\ADS1015DeviceLib\obj\ARM\Debug\layout.resfiles
+D:\Software Development .NET\4.5\monacos.us\Projects\monacos.us\AzureCloudIOT\Assemblies\ADS1015DeviceLib\obj\ARM\Debug\layout.resfiles.intermediate
+D:\Software Development .NET\4.5\monacos.us\Projects\monacos.us\AzureCloudIOT\Assemblies\ADS1015DeviceLib\obj\ARM\Debug\resources.resfiles
+D:\Software Development .NET\4.5\monacos.us\Projects\monacos.us\AzureCloudIOT\Assemblies\ADS1015DeviceLib\obj\ARM\Debug\resources.resfiles.intermediate
+D:\Software Development .NET\4.5\monacos.us\Projects\monacos.us\AzureCloudIOT\Assemblies\ADS1015DeviceLib\obj\ARM\Debug\pri.resfiles
+D:\Software Development .NET\4.5\monacos.us\Projects\monacos.us\AzureCloudIOT\Assemblies\ADS1015DeviceLib\obj\ARM\Debug\pri.resfiles.intermediate
+D:\Software Development .NET\4.5\monacos.us\Projects\monacos.us\AzureCloudIOT\Assemblies\ADS1015DeviceLib\obj\ARM\Debug\qualifiers.txt
+D:\Software Development .NET\4.5\monacos.us\Projects\monacos.us\AzureCloudIOT\Assemblies\ADS1015DeviceLib\obj\ARM\Debug\qualifiers.txt.intermediate
+D:\Software Development .NET\4.5\monacos.us\Projects\monacos.us\AzureCloudIOT\Assemblies\ADS1015DeviceLib\obj\ARM\Debug\MultipleQualifiersPerDimensionFound.txt

@@ -1,0 +1,15 @@
+D:\Software Development .NET\4.5\monacos.us\Projects\monacos.us\AzureCloudIOT\Assemblies\VoltageMonitor.dtos\bin\Release\VoltageMonitor.dtos.dll
+D:\Software Development .NET\4.5\monacos.us\Projects\monacos.us\AzureCloudIOT\Assemblies\VoltageMonitor.dtos\bin\Release\VoltageMonitor.dtos.pdb
+D:\Software Development .NET\4.5\monacos.us\Projects\monacos.us\AzureCloudIOT\Assemblies\VoltageMonitor.dtos\bin\Release\AutoMapper.dll
+D:\Software Development .NET\4.5\monacos.us\Projects\monacos.us\AzureCloudIOT\Assemblies\VoltageMonitor.dtos\bin\Release\System.ValueTuple.dll
+D:\Software Development .NET\4.5\monacos.us\Projects\monacos.us\AzureCloudIOT\Assemblies\VoltageMonitor.dtos\bin\Release\VoltageMonitor.model.dll
+D:\Software Development .NET\4.5\monacos.us\Projects\monacos.us\AzureCloudIOT\Assemblies\VoltageMonitor.dtos\bin\Release\EntityFramework.dll
+D:\Software Development .NET\4.5\monacos.us\Projects\monacos.us\AzureCloudIOT\Assemblies\VoltageMonitor.dtos\bin\Release\VoltageMonitor.model.pdb
+D:\Software Development .NET\4.5\monacos.us\Projects\monacos.us\AzureCloudIOT\Assemblies\VoltageMonitor.dtos\bin\Release\VoltageMonitor.model.dll.config
+D:\Software Development .NET\4.5\monacos.us\Projects\monacos.us\AzureCloudIOT\Assemblies\VoltageMonitor.dtos\bin\Release\AutoMapper.pdb
+D:\Software Development .NET\4.5\monacos.us\Projects\monacos.us\AzureCloudIOT\Assemblies\VoltageMonitor.dtos\bin\Release\AutoMapper.xml
+D:\Software Development .NET\4.5\monacos.us\Projects\monacos.us\AzureCloudIOT\Assemblies\VoltageMonitor.dtos\bin\Release\System.ValueTuple.xml
+D:\Software Development .NET\4.5\monacos.us\Projects\monacos.us\AzureCloudIOT\Assemblies\VoltageMonitor.dtos\bin\Release\EntityFramework.xml
+D:\Software Development .NET\4.5\monacos.us\Projects\monacos.us\AzureCloudIOT\Assemblies\VoltageMonitor.dtos\obj\Release\VoltageMonitor.dtos.csprojResolveAssemblyReference.cache
+D:\Software Development .NET\4.5\monacos.us\Projects\monacos.us\AzureCloudIOT\Assemblies\VoltageMonitor.dtos\obj\Release\VoltageMonitor.dtos.dll
+D:\Software Development .NET\4.5\monacos.us\Projects\monacos.us\AzureCloudIOT\Assemblies\VoltageMonitor.dtos\obj\Release\VoltageMonitor.dtos.pdb
